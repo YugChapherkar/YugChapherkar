@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YugChapherkar
-- buidling what you're not thinking.
+- buidling what you're not thinking
 - 20
 - dev
 <!---
