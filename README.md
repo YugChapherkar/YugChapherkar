@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YugChapherkar
 - buidling what you're not thinking.
-- 20?
+- 20
 - dev 
 <!---
 YugChapherkar/YugChapherkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
