@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YugChapherkar
+ - 👋 Hi, I’m @YugChapherkar
 - buidling what you're not thinking.
 - 20🦈 
 - dev 
