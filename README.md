@@ -1,3 +1,5 @@
+<img width="2428" height="764" alt="image" src="https://github.com/user-attachments/assets/e1efa972-67b6-4afe-bdba-c21e6b0b844f" />
+
  - 👋 Hi, I’m @YugChapherkar
 - buidling what you're not thinking.
 - 20🦈 
